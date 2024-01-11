@@ -4,6 +4,10 @@ body {
     margin: 0 auto;
 }
 
+p {
+    text-align: justify;
+}
+
 img {
     border-radius: 10px;
     width: 900px;
