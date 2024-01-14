@@ -1,8 +1,23 @@
 body {
     background-color: #a8caba;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    background-color: #5d415722;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: -7px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
     width: 900px;
     margin: 0 auto;
-    font-family: 'Josefin Sans', sans-serif;
 }
 
 p {
@@ -13,18 +28,6 @@ img {
     border-radius: 10px;
     width: 900px;
     height: auto;
-}
-
-h1 {
-    text-align: center;
-}
-
-header {
-    background-color: #5d415744;
-    border-radius: 5px;
-    padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 30px;
 }
 
 .index-class {
